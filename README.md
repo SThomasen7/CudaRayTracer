@@ -15,3 +15,5 @@ Rendered with a Nvidia Quadro RTX 5000 GPU
 
 ### 2048 Samples
 ![imgs/2048_samples.jpg](imgs/2048_samples.jpg)
+
+Thanks for checking out this repo if you want to get in touch please email me at sthomasen7@gmail.com or check out my website www.scottthomasandersen.com
